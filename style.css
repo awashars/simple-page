@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+   background-image: url("ABC.jpg");
+   background-size: cover;
+}
+   
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(136, 142, 145);
+ }
+    
+li {
+    float: left;
+    color: rgb(230, 227, 239);
+}
+
+li a {
+    
+    display: block;
+    text-decoration: none;
+    padding: 18px 16px;
+    text-align: center;
+}
+   
+ul a:hover{
+    background-color: burlywood;
+}
+h1{
+    color: darkkhaki;
+    text-align: center;
+}
+
+h2{
+    color: grey;
+    text-align: center;
+}
+
+p{
+    color: rgb(158, 10, 244);
+    text-align: center;
+}
